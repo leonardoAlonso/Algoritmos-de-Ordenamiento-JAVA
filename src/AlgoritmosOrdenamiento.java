@@ -1,3 +1,13 @@
+/**
+ * Algoritmos de ordenamiento 
+ * bubble sort
+ * insertion sort
+ * selection sort
+ * quicksort
+ * @autor Leonardo Alonso
+ * 
+ * **/
+
 import java.util.Random;
 import java.util.Scanner;
 public class AlgoritmosOrdenamiento {
